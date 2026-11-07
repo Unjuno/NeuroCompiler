@@ -1,0 +1,10 @@
+stage,archive,sha256,bytes,entries,uncompressed_bytes,crc_test_passed,github_storage
+stage-00,knowledge_to_weights_handoff_bundle(1).zip,946049f8919417e9308b5b094ec055c5f971a325e73e09b216f45fafd8ba9580,166035,5,438513,True,GitHub Release asset (NOT git)
+stage-01,knowledge_to_weights_stage1_results.zip,d255ccf1a2f8e11f4ac2c2d1d59726bd063ad331b4e03bbdac9d8cc456a781d3,352446,14,996058,True,GitHub Release asset (NOT git)
+stage-02,knowledge_to_weights_stage2_complete.zip,3abc82decd263188fee869484cbc967ca17ce6999a2b8c0c4e1259154e9b924e,5356291,280,26190134,True,GitHub Release asset (NOT git)
+stage-03,knowledge_to_weights_stage3c_stage4pilot.zip,3e49ec83d4a970beb62dac0cbcd0a09efda8cec2184e31662e125ded5e14f68a,3136948,74,16067336,True,GitHub Release asset (NOT git)
+stage-04,knowledge_to_weights_stage4d_stage5pilot.zip,c29bfc6adc584a143dd32c41554f12b2871b71ecca8e4d89a6f34f2949466fa9,11228958,64,59230775,True,GitHub Release asset (NOT git)
+stage-05,knowledge_to_weights_stage5_stage6_bundle.zip,81706ac88d8ba858b53fa72e3e1d00327a246a618392ed998e2ff0f42c9ae9b7,7191798,170,41999686,True,GitHub Release asset (NOT git)
+stage-07,knowledge_to_weights_stage7_complete.zip,cb1291d05a7dce23d89a72fc895c836a8dc704224c5b05212deffac730c4d325,35949151,287,84606082,True,GitHub Release asset (NOT git)
+stage-08,knowledge_to_weights_stage8_complete.zip,f1b3d152e7469ffcc89a4ce318a305f64a0be0b7e18210285c8b51b3aa88a607,18282267,234,37880438,True,GitHub Release asset (NOT git)
+stage-09r,knowledge_to_weights_stage9r_complete.zip,9e44647279bf6e8c894e28ff2e9241c50ccad17fbfadc8c8b8ecf6f08e57b08c,131105959,384,144967187,True,GitHub Release asset (NOT git)

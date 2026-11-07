@@ -1,0 +1,10 @@
+THIS IS NOT AN ACTIVE LICENSE.
+
+Before publishing NeuroCompiler under an open-source license:
+1. Confirm all rights holders and third-party code/data licenses.
+2. Select the license(s) for code, data, and figures.
+3. Add a real LICENSE file containing the full approved license text.
+4. Fill in the correct copyright holder, date, and NOTICE where applicable.
+
+Suggested discussion starting point: Apache-2.0 for original code, subject to
+rights confirmation. Public GitHub visibility does not grant reuse permission.

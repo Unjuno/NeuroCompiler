@@ -1,0 +1,32 @@
+# Large original archives and stage-specific machine learning artifacts
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npz
+*.onnx
+*.safetensors
+
+# Runtime data and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+!*.env.example
+.DS_Store
+*.log
+build/
+dist/
+*.egg-info/
+
+# Generated test files
+experiments/stage-09r/checks/numerical_tests.json

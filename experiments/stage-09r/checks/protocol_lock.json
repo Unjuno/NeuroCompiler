@@ -1,0 +1,29 @@
+{
+  "protocol_sha256": "e4f97c0f48c28f5aba3d184a738e5d9ebc7d7b758516087197944cfcf7da6585",
+  "implementation_sha256": "50aa577859eee920e0671a2ddbf029b542c18cad9256ae61a09b0f336c60609f",
+  "steps": 800,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "pilot": 100,
+  "changed_after_pilot": false
+}

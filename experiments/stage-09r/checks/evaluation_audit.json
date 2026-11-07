@@ -1,0 +1,11 @@
+{
+  "seeds": 20,
+  "methods": 4,
+  "test_tasks": 800,
+  "rows": 64000,
+  "nonfinite": 0,
+  "projection_identity_max_abs": 1.4203048459560108e-17,
+  "reference_residual_max": 1.9985407858935312e-11,
+  "galerkin_residual_max": 1.9823322676597284e-11,
+  "min_discrete_bound_ratio": 5.207356218716561
+}

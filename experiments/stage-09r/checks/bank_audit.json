@@ -1,0 +1,9 @@
+{
+  "train_val_overlap": 0,
+  "train_test_overlap": 0,
+  "val_test_overlap": 0,
+  "test_unique": 800,
+  "refined_tasks": 48,
+  "max_relative_grid_change": 0.0011722047012525144,
+  "max_projection_coeff_change": 0.0009460715341646492
+}

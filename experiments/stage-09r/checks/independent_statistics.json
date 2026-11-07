@@ -1,0 +1,14 @@
+[
+  {
+    "comparison": "Weak/Data",
+    "independent_task_pair_mean": -0.017568623500508376,
+    "saved_seed_mean": -0.0175686235005083,
+    "absolute_difference": 7.632783294297951e-17
+  },
+  {
+    "comparison": "Response/Data",
+    "independent_task_pair_mean": -0.021031481082282623,
+    "saved_seed_mean": -0.0210314810822826,
+    "absolute_difference": 2.42861286636753e-17
+  }
+]

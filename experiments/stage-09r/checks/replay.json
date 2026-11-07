@@ -1,0 +1,23 @@
+[
+  {
+    "method": "Data",
+    "seed": 0,
+    "recorded_steps": 800,
+    "max_state_difference": 0.0,
+    "same_best_step": true
+  },
+  {
+    "method": "Response",
+    "seed": 0,
+    "recorded_steps": 800,
+    "max_state_difference": 0.0,
+    "same_best_step": true
+  },
+  {
+    "method": "DataTime",
+    "seed": 0,
+    "recorded_steps": 2289,
+    "max_state_difference": 0.0,
+    "same_best_step": true
+  }
+]

@@ -1,0 +1,9 @@
+# Environment used to validate the saved Stage 9R test code.
+# CPU PyTorch may require the platform-specific installation instructions.
+# Python 3.13.5, Linux x86_64; numerical results depend on runtime backend.
+numpy==2.3.5
+scipy==1.17.0
+torch==2.10.0
+pandas==2.2.3
+matplotlib==3.10.8
+pytest==9.0.2

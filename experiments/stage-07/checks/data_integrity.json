@@ -1,0 +1,6 @@
+{
+  "train_test_exact_forcing_IR_hash_overlap": 0,
+  "n_trained_seed_directories": 10,
+  "n_saved_checkpoint_files": 60,
+  "no_claim_of_new_independent_seeds_from_reexecution": true
+}

@@ -1,0 +1,7 @@
+{
+  "exact_rewrite_pairs": 1200,
+  "non_equivalent_controls": 400,
+  "false_collapses": 0,
+  "max_ir_vs_autodiff_abs_error_float64": 1.1368683772161603e-13,
+  "scope": "commutative-ring and derivation rules; not all Gaussian identities"
+}

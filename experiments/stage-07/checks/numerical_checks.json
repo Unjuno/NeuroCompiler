@@ -1,0 +1,13 @@
+{
+  "manual_gradient_max_abs_float64": 8.881784197001252e-16,
+  "residual_vs_autograd_max_abs_float64": 8.881784197001252e-16,
+  "hard_boundary_max_abs_float64": 0.0,
+  "reference_quadrature96_vs_DOP853_max_abs": 8.802411577413238e-11,
+  "quadrature64_vs96_max_abs": 6.938893903907228e-16,
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "torch": "2.10.0+cpu",
+  "numpy": "2.3.5",
+  "platform": "Linux-6.18.35-x86_64-with-glibc2.41",
+  "threads": 1,
+  "cuda": false
+}

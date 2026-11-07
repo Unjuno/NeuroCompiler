@@ -1,0 +1,13 @@
+group,method,pass_at_1e5,median_mse
+structure,Constant + 2 correction,0.9875,2.4534295677186952e-09
+structure,Constant + 3 correction,1.0,6.85926650576125e-10
+structure,DirectFinal + 1 correction,0.86625,3.4458523130521445e-07
+structure,Meta + 1 correction,0.85625,3.703503071244209e-07
+unseen_leaf,Constant + 2 correction,0.9875,1.130234822733497e-09
+unseen_leaf,Constant + 3 correction,1.0,4.079482431434935e-10
+unseen_leaf,DirectFinal + 1 correction,0.885,2.0433131411748048e-07
+unseen_leaf,Meta + 1 correction,0.90625,2.0786854705370622e-07
+coefficient_ood,Constant + 2 correction,0.975,5.42447968950815e-09
+coefficient_ood,Constant + 3 correction,1.0,7.209587383806029e-10
+coefficient_ood,DirectFinal + 1 correction,0.7125,1.8953793944828472e-06
+coefficient_ood,Meta + 1 correction,0.5925,5.028247564270612e-06

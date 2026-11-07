@@ -78,6 +78,8 @@ Stage 9Rの大規模再学習には原本ZIP内の問題bankと再現環境が�
 
 [原本ZIPのハッシュ索引](archives/source_archives.csv) · [格納方針](docs/PUBLIC_RELEASE.md) · [証拠の区分](docs/EVIDENCE_POLICY.md)
 
+**原本Archiveの公開状況：GitHub Releases未登録（2026-11-08）。** [検証済みRelease候補・SHA-256](docs/ARCHIVE_RELEASE_CANDIDATE.md) · [公開の最終手順](docs/RELEASE_OPERATIONS.md) · [公開前の安全性監査](docs/ARCHIVE_SECURITY_REVIEW.md)
+
 ### ライセンスについて
 
 リポジトリの公開状態（Public）は再利用許諾を意味しません。著作権者・共同研究者・使用データ/コードの権利関係が未確認のため、この公開準備版に**確定LICENSEは含めていません**。使用許諾を選択してから初回公開してください。`LICENSE.template` は選択時の注意書きです。

@@ -28,3 +28,5 @@ python3 -m pytest experiments/stage-09r/tests -q
 This lightweight repository deliberately omits large task-level raw data, checkpoint files and source archives. Preserve them separately as GitHub Release assets and verify their SHA-256 hashes in [`archives/source_archives.csv`](archives/source_archives.csv). Work is historical and stage-specific; there is no unified production API or claim that all experiments execute from the lightweight snapshot alone.
 
 **License is not yet selected.** Public visibility is not an open-source license; clear rights and choose one before publishing for reuse.
+
+The historical 205 MiB archive has been checksum-validated, but **is not yet a published GitHub Release** (2026-11-08). See the [candidate manifest](docs/ARCHIVE_RELEASE_CANDIDATE.md) and [release procedure](docs/RELEASE_OPERATIONS.md). Rights/security clearance remains pending.

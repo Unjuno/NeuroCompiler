@@ -1,0 +1,8 @@
+{
+  "max_perm_max_abs": 4.76837158203125e-07,
+  "median_perm_max_abs": 4.76837158203125e-07,
+  "max_perm_mean_abs": 8.532307305131326e-09,
+  "max_calib_log_gap": 0.0603594626868375,
+  "median_calib_log_gap": 0.01014160239535015,
+  "matching_within_10pct": 10
+}

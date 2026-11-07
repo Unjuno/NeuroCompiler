@@ -1,0 +1,19 @@
+contrast,mask,mean,ci_lo,ci_hi,wins_negative,n_seed
+Semantic Meta - matched rel_log_auc,held_single_a,-0.15026827761903405,-0.24420769428834319,-0.06817579400725685,9,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_single_a,-2.069258270657382,-2.3276935111557093,-1.8374575153973107,10,10
+Semantic Meta - matched rel_log_auc,held_single_b,-0.08099066283903086,-0.1752518617118767,-0.015801999608520412,9,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_single_b,-1.5406187026898128,-1.7253682788087157,-1.3683057893876938,10,10
+Semantic Meta - matched rel_log_auc,held_width_interp,-0.21166093400679528,-0.3487174798268825,-0.09748245504684758,9,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_width_interp,-3.1317931923459,-3.3599059814035113,-2.8928419254659508,10,10
+Semantic Meta - matched rel_log_auc,held_pair,-0.13148085409775376,-0.2131983065069653,-0.07097207752987744,10,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_pair,-1.7932598056897984,-1.930158213933292,-1.6588196922893506,10,10
+Semantic Meta - matched rel_log_auc,held_mix_known,-0.19666253719478846,-0.2801673174649477,-0.12286900211125613,10,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_mix_known,-0.9431296464134139,-1.1412414930159436,-0.7655486639146554,10,10
+Semantic Meta - matched rel_log_auc,held_all4,-0.15249037221074105,-0.21179047450423236,-0.10010902160778645,10,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_all4,-2.2241330590938686,-2.3413689976327596,-2.1279053986035854,10,10
+Semantic Meta - matched rel_log_auc,descriptor_extrap,-0.5036979645490647,-0.6674457243084907,-0.3657845662534237,10,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,descriptor_extrap,-1.2557072235883182,-1.4596718050930877,-1.0564733612117174,10,10
+Semantic Meta - matched rel_log_auc,held_all4_high,-0.178715006262064,-0.2741324990801513,-0.07666000127792358,9,10
+log zero MSE Semantic DirectFinal / ID DirectFinal,held_all4_high,-1.8149881721749697,-1.9192495577696072,-1.702461829666709,10,10
+PRIMARY Semantic Meta - matched rel_log_auc,primary_mean,-0.1539256063280239,-0.22145203911619318,-0.09461444762030927,10,10
+PRIMARY log zero MSE Semantic DirectFinal / ID DirectFinal,primary_mean,-1.9503654461483624,-2.0709908312084795,-1.8486005489171664,10,10

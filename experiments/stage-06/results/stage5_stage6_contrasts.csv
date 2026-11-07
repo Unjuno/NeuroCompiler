@@ -1,0 +1,10 @@
+experiment,mean,ci95_low,ci95_high,negative_seeds,n_seeds,notes
+Stage5a TreeDirect vs BagDirect zero-shot log MSE ratio,-0.9544181722072006,-0.9718537368533642,-0.9392593250876028,10,10,negative favors Tree
+Stage5b full-horizon Meta vs matched Direct relative log-AUC,-0.025098208524286746,-0.05966489988844843,0.005448451233096448,6,10,negative favors Meta; CI crosses 0
+Stage5d confirm early-AUC Meta vs matched Direct,-0.06020063935849368,-0.09366015727131939,-0.027551818185615605,8,10,"primary; steps 1,2,5,10; negative favors Meta"
+Stage5d confirm full-AUC Meta vs matched Direct,-0.05593886548785524,-0.09662402740540348,-0.016396018183620617,7,10,secondary; steps 1..100
+Stage5d initial-10%-matched early-AUC,-0.01700400493203092,-0.03117733109872097,-0.00183324105900251,8,10,robustness subset
+Stage6 syntax rewrite prediction disagreement / target energy,0.03322706913945459,0.0263957108473453,0.03881933164853265,0,5,positive is syntax sensitivity
+Stage6 syntax rewrite log MSE ratio rewrite/compact,0.08387993864363648,0.03483334586969618,0.11553314119078598,1,5,positive means rewrite form worse
+Stage6 canonical vs syntax rewrite avg log MSE ratio,-0.046648792656721706,-0.09719863007613064,0.021715944224571737,4,5,negative favors canonical; invariance exact by construction
+Stage6 structural-control canonical vs syntax avg log MSE ratio,-0.03776031208824086,-0.07132217338873416,-0.004198450787747575,3,5,negative favors canonical
